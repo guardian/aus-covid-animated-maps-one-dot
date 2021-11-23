@@ -1,0 +1,10 @@
+videos/
+titles-syd.ai
+node_modules/
+.build
+bower_components/
+.build/
+.local/
+yarn.lock
+.DS_Store
+Frames*/
